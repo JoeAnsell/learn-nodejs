@@ -171,6 +171,7 @@ exports.deletePost = (req, res, next) => {
       return User.findById(req.userId);
     })
     .then((user) => {
+      //Find creator of post ID and remove post from array in DB
       user.posts.pull(postId);
       return user.save();
     })
