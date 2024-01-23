@@ -1,8 +1,8 @@
 {
-    "env": {
-        "MONGO_USER": "maximilian",
-        "MONGO_PASSWORD": "9u4biljMQc4jjqbe",
-        "MONGO_DEFAULT_DATABASE": "shop",
-        "STRIPE_KEY": "sk_test_T8OE02SHDZWLwk4TYtrWlsat"
-    }
+  "env": {
+    "MONGO_USER": "EggLaptop69",
+    "MONGO_PASSWORD": "uiY0qWzCz4OpiJDO",
+    "MONGO_DEFAULT_DATABASE": "shop",
+    "STRIPE_KEY": "sk_test_51Iro7IJIHlpRHY8CwgkCtsrzRqmRkvV6EZqCfwdngA1SfjCpsPdqP6i1D3dK2CXDzbBX66rB6JrEHsSASvWlS8n200nmx7BbPo"
+  }
 }
